@@ -5,6 +5,7 @@ Module 7 assignment designed to show understanding of basic animation in Javascr
 ## How to Run
 
 Click "Add PacMan" to add a single PacMan to the window. Add as many as you'd like!
+<br>
 Click "Start Game" to move the PacMen across the screen.
 
 ## Have Fun!
