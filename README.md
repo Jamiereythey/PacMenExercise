@@ -10,6 +10,10 @@ Click "Start Game" to move the PacMen across the screen.
 <br>
 Have Fun!
 
+## Roadmap of Future Improvements
+
+Working on adding animation changes - PacMen change orientation and image source when coming in contact with screen edges. For instance, PacMan hits right barrier and image source switches to left facing PacMan. Also looking to add the mouth open/close animation as each PacMan moves across the screen.
+
 ## MIT License Information
 
 Copyright (c) 2020 John Williams
